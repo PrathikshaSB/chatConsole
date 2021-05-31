@@ -1,0 +1,6 @@
+paste in desktop and run in command prompt
+
+or
+
+this folder already exists in C:/Users/admin/java
+run cmd as administrator and run them
